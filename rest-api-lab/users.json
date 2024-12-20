@@ -1,0 +1,35 @@
+{
+  "companyName": "TechCorp",
+  "employees": [
+    {
+      "id": 1,
+      "name": "Joey Ara Teh",
+      "position": "Software Engineer",
+      "location": "Davao"
+    },
+    {
+      "id": 2,
+      "name": "Jisoos Fries",
+      "position": "Web Developer",
+      "location": "Manila"
+    },
+    {
+      "id": 3,
+      "name": "Team Bangan",
+      "position": "Data Analyst",
+      "location": "Davao"
+    },
+    {
+      "id": 4,
+      "name": "Bini Saya",
+      "position": "Cloud Engineer",
+      "location": "Davao"
+    },
+    {
+      "id": 5,
+      "name": "Bini Birocha",
+      "position": "Software Engineer",
+      "location": "Davao"
+    }
+  ]
+}
